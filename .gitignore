@@ -1,0 +1,6 @@
+# コンパイル結果は公開しない
+*.class
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
